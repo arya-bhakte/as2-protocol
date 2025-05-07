@@ -1,6 +1,7 @@
 A demonstration of the AS2 protocol concept using two Node.js servers communicating with each other.
 
 Server 1 (port 8448): Provides sample JSON data
+
 Server 2 (port 8449): Requests data from Server 1 and processes it
 
 Running the Application
